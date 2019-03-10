@@ -3,3 +3,10 @@
 .index_h_9r{height: 9rem;overflow: hidden;}
 .index_h_5r{height: 5.2rem;overflow: hidden;}
 .text_index_2{text-indent: 2rem;text-align: left;}
+.this-shadow{box-shadow: 0 0.1rem 0.5rem rgba(120,120,120,.8);border-radius: 0.8rem;}
+.icon-bofangkey{width: 2.2rem; padding-right: 0.5rem;}
+.media:hover{text-shadow: 0 0 1px #343a40c2}
+.this_displayinline{display: inline-block;}
+.this_displayblock{display: block;}
+.this_floatr{float: right; display: none;}
+.thos_show:hover span{display: initial!important;}
